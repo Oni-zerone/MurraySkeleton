@@ -1,0 +1,6 @@
+framework module Pods_DataAccess_Skeleton {
+  umbrella header "Pods-DataAccess-Skeleton-umbrella.h"
+
+  export *
+  module * { export * }
+}

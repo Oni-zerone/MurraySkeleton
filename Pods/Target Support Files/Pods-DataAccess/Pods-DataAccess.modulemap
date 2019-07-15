@@ -1,0 +1,6 @@
+framework module Pods_DataAccess {
+  umbrella header "Pods-DataAccess-umbrella.h"
+
+  export *
+  module * { export * }
+}
