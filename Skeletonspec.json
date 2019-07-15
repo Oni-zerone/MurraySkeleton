@@ -2,5 +2,5 @@
     "scripts": ["sh install.sh"],
     "foldersToRename" : ["Skeleton.xcodeproj"],
     "filePlaceholder": "Skeleton",
-    "remoteBones": ["https://github.com/synesthesia-it/Bones.git@develop"]
+    "remoteBones": ["https://github.com/Oni-zerone/SkeletonBones.git@master"]
 }
